@@ -1892,3 +1892,58 @@
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Transfer is unsuccessful
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User successfully performed BILL PAYMENT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000097is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :912700
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[Forwarding isElementEnabled on session efd0441f-a39a-46a9-b686-b5aca8629460 to remote] INFO  org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4723: Connection reset
+[Forwarding isElementEnabled on session efd0441f-a39a-46a9-b686-b5aca8629460 to remote] INFO  org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://127.0.0.1:4723
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000097is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :912700
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000097is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :912700
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000097is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :912700
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000098is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :727983
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
