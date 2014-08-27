@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="217672" started-at="2014-07-11T07:25:45Z" finished-at="2014-07-11T07:29:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="217672" started-at="2014-07-11T07:25:45Z" finished-at="2014-07-11T07:29:22Z">
+      <class name="com.xchanging.appium.Enrollment_Flow">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.xchanging.appium.Enrollment_Flow@1c480e8]" name="setup" is-config="true" duration-ms="16177" started-at="2014-07-11T12:55:29Z" finished-at="2014-07-11T12:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Enrollment()[pri:0, instance:com.xchanging.appium.Enrollment_Flow@1c480e8]" name="Enrollment" duration-ms="217665" started-at="2014-07-11T12:55:45Z" finished-at="2014-07-11T12:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enrollment -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.xchanging.appium.Enrollment_Flow@1c480e8]" name="clean" is-config="true" duration-ms="3053" started-at="2014-07-11T12:59:22Z" finished-at="2014-07-11T12:59:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.xchanging.appium.Enrollment_Flow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

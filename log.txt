@@ -1,0 +1,1894 @@
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101340is entered for MSISDN
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1340@group.comis entered for Email
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :359631
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[main] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101340is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1340@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :577758
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101340is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1340@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101801is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1801@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :133126
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101802is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1802@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :328489
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101803is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1803@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :991979
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101803is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1803@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101804is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1804@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :746688
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101805is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1805@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :691654
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101806is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1806@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :135984
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101807is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1807@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :773298
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101808is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1808@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :068837
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101809is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1809@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :105417
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101810is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1810@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :857736
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101811is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1811@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :678122
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101812is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1812@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :508273
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101813is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1813@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :617532
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101813is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1813@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101814is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1814@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :054296
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101815is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1815@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :819083
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101816is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1816@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :622471
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101817is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1817@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :952888
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101818is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1818@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :071754
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101819is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1819@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :339640
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101820is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1820@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :301885
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101821is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1821@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :036242
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101821is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1821@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101822is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1822@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :734448
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101823is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1823@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :412887
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101824is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1824@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :229284
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101825is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1825@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :560423
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101826is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1826@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :117029
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101827is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1827@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :333362
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010101827is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz1827@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102101is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2101@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :103530
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :330850
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102102is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2102@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :838476
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102307is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2307@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :112521
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102301is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2301@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102302is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2302@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :991682
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102303is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2303@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :183234
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102304is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2304@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :388999
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102304is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2304@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :893635
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102401is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2401@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :830726
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102401is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2401@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :483680
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102401is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2401@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102402is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2402@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :475664
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102403is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2403@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :538163
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102404is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2404@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :938264
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102405is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2405@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :432727
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102406is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2406@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :572800
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102408is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2408@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :767242
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102801is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2801@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :552945
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102802is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2802@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :143247
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102803is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2803@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :098368
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102804is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2804@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :666592
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102805is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2805@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :156039
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102805is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2805@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :378693
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102806is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2806@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :837422
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102807is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2807@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :029069
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102808is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2808@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :024262
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102809is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2809@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :301172
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010102810is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz2810@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :354164
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010100801is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz0108@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :285873
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010100804is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz0408@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010100804is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz0408@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :007612
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 1010100805is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - testxyz0508@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Got the hvc value from DB :247333
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.Enrollment_Flow  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010100508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0805@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :111823
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010110508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0815@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :036026
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010110508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0815@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010120508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0825@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :376814
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010130508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0835@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :218791
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010140508is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0845@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :549089
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010140608is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0865@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :566682
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010140708is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0875@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :617287
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010140808is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz0885@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :143054
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010150908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz1895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :025956
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010350908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz3895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :862983
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010450908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz4895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :989439
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010450908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz4895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 1010450908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz4895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 2220450908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz50895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :507375
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 2220550908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz60895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :898793
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 2220550908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz70895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Enroll in Mobile Service is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Accepted Terms and Conditions
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on Next
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - mon gspis entered for Name
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 2220650908is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - testxyz80895@group.comis entered for Email
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 14789is entered for Confirm Passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Click on OK
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :066930
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Entered security answers
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Email verified and logged in
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - I am in already enrolled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - App launched
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Card has been added
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000124is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000125is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :611990
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000125is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000128is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :641028
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000130is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :981895
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000131is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :133811
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000131is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :133811
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000132is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :415010
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - i am in passcode
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - i am in passcode1
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000133is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :988711
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000133is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :988711
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000134is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :587039
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000134is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :587039
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000135is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :746063
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000136is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :934477
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000137is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :736017
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000137is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :810420
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000139is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :186290
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000139is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000147is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :809341
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000148is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :434623
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000149is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :507757
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000171is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :856459
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000175is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :341101
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000175is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :341101
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000177is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :216752
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000179is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :850728
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000180is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :227650
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000181is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :414645
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000161is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :938078
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000162is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :793728
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000163is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :809731
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000164is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000164is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :149496
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000165is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :775062
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000166is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :359748
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000167is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :253940
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000168is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :686177
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000034is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :263771
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000034is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :263771
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000035is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :434240
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000036is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :327869
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000037is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :534212
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000038is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :721769
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000040is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :879729
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000041is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :702044
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000042is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :607351
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000043is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :379713
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000045is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :541513
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000046is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :817085
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000048is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :887854
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000050is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :971586
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000050is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :971586
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000087is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :975431
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000090is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :587187
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000091is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :680185
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000092is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :572507
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000093is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :158756
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000094is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :427394
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000095is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :951582
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000097is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :777950
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Transfer is unsuccessful
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User successfully performed BILL PAYMENT
