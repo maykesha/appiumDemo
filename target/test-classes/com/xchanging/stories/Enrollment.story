@@ -27,10 +27,13 @@ Then I get successfully registered
 Scenario: Navigate to various Account types and perform IAT and Bill Pay for any one of the account type
 
 Given I have successfully registered to CBG
-And I have navigated to various Accounts
+And I have navigated to view Accounts
+And I have set Weekly Alert
 And I have successfully performed Payment Transfer
 And I have successfully performed Bill Pay
-
+And I have cancelled Alerts Globally
+And I have cancelled Mobile Banking Service
+Then I have completed the Sanity successfully
 
 
 

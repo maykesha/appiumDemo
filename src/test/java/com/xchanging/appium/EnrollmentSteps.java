@@ -30,6 +30,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
+
 import com.xchanging.util.ConfigurationManager;
 import com.xchanging.util.ImportfromExcel;
 import com.xchanging.util.JDBC;
@@ -383,27 +384,91 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
 		
 	}
 	
-	@Given("I have navigated to various Accounts")	
-	public void givenIHaveNavigatedToVariousAccounts() throws Exception {
+	@Given("I have navigated to view Accounts")	
+	public void givenIHaveNavigatedToViewAccounts() throws Exception {
 		
-		
+	/*	
 		//driver.swipe(600, 400, 100, 400, 1000);
+		
+		
+		
+		
 		
 		Thread.sleep(5000);
 		
-		//Slide the menu onto the screen
+	//Slide the menu onto the screen
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 	    HashMap<String, Double> swipeObject = new HashMap<String, Double>();
-	    swipeObject.put("startX", 0.01);
-	    swipeObject.put("startY", 0.5);
-	    swipeObject.put("endX", 0.5);
-	    swipeObject.put("endY", 0.6);
+	    swipeObject.put("startX", 0.8);
+	    swipeObject.put("startY", 0.2);
+	    swipeObject.put("endX", 0.9);
+	    swipeObject.put("endY", 0.4);
 	    swipeObject.put("duration", 2.5);
-	    HashMap[] params = { swipeObject };
-	    js.executeScript("mobile: swipe", params);
+	    @SuppressWarnings("rawtypes")
+		HashMap[] params = { swipeObject };
+	    js.executeScript("mobile: swipe", params);*/
 		
 		log.info("User navigated to various accounts");
 		Thread.sleep(1000);
+		
+	}
+	
+	@Given("I have set Weekly Alert")	
+	public void givenIhavesetWeeklyAlert() throws Exception{
+		
+		WebElement MENU = driver
+				.findElementByClassName("android.widget.TextView");
+		MENU = driver.findElement(By.name("Menu"));
+		MENU.click();
+		
+		Thread.sleep(2000);
+		
+		WebElement ALERTS = driver
+				.findElementByClassName("android.widget.TextView");
+		
+		ALERTS = driver.findElement(By.name("Alerts"));
+		ALERTS.click();
+		
+		Thread.sleep(2000);
+		
+		WebElement WEEKLY_ALERTS = driver
+				.findElementByClassName("android.widget.TextView");
+		
+		WEEKLY_ALERTS = driver.findElement(By.name("Weekly alerts"));
+		WEEKLY_ALERTS.click();
+		
+		Thread.sleep(2000);
+		
+		WebElement SWITCH = driver
+				.findElementByClassName("android.widget.Switch");
+		
+		SWITCH = driver.findElement(By.name("OFF"));
+		SWITCH.click();
+		
+        Thread.sleep(2000);
+		
+	
+	WebElement TIME = driver.findElementByClassName("android.widget.TextView");		
+	TIME = driver.findElement(By.name("12pm - 4pm"));
+		TIME.click();
+		
+		Thread.sleep(2000);
+		
+		// Save Weekly Alerts
+		WebElement SAVE = driver
+				.findElementByClassName("android.widget.Button");
+		SAVE = driver.findElement(By.name("Save"));
+		SAVE.click();
+		
+		// OK
+		
+		WebElement OK = driver
+				.findElementByClassName("android.widget.Button");
+		OK = driver.findElement(By.name("OK"));
+		OK.click();
+               
+               Thread.sleep(5000);	
+		
 		
 	}
 	
@@ -472,13 +537,14 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
 		Thread.sleep(2000);
 		
 		//driver.sendKeyEvent(AndroidKeyCode.ENTER);
+		driver.navigate().back();
 		
 		Thread.sleep(2000);
 		
-		WebElement PROCEED = driver
-				.findElementByClassName("android.widget.Button");			
-		PROCEED = driver.findElement(By.name("Transfer"));
-		PROCEED.click();
+		List<WebElement> PROCEED = driver
+				.findElementsByClassName("android.widget.Button");			
+		//PROCEED = driver.findElements(By.name("Transfer"));
+		PROCEED.get(0).click();
 		Thread.sleep(4000);	
 		
 		WebElement CONFIRM = driver
@@ -489,7 +555,7 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
          
             
 		Thread.sleep(8000);	
-       try{    	   
+    /*   try{    	   
 
 			WebElement OK = driver
      				.findElementByClassName("android.widget.Button");
@@ -498,15 +564,16 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
     	   
     	   
        }
-      catch(Exception e){
+      catch(Exception e){}
     	  
-    	  log.info("Transfer is unsuccessful");
+    	  log.info("Transfer is unsuccessful");*/
     	  
     	  WebElement DONE = driver
   				.findElementByClassName("android.widget.Button");
        DONE = driver.findElement(By.name("Done"));
        DONE.click();
-}
+
+		log.info("Transfer is unsuccessful");
        
 		
 	}
@@ -538,8 +605,9 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
         Thread.sleep(1000);
         
         
-        try{
+        /*try{
     WebElement POPUP = driver.findElementByClassName("android.widget.TextView");
+    POPUP.wait(1000);
         }
 
                catch(Exception e)
@@ -553,9 +621,9 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
 
                RETRY =driver.findElement(By.name("Retry"));
 
-               //RETRY.click();
+               RETRY.click();
 
-               }
+               }*/
         
         WebElement TOACCOUNT = driver.findElementByClassName("android.widget.TextView");
         
@@ -567,25 +635,127 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
         AMOUNT.sendKeys(DATA_AMOUNT);
         Thread.sleep(2000);
         
-        WebElement SEND = driver.findElementByClassName("android.widget.Button");
-        SEND = driver.findElement(By.name("Send"));
-        SEND.click();
+        driver.navigate().back();
+        
+        List<WebElement> SEND = driver.findElementsByClassName("android.widget.Button");
+       // SEND = driver.findElements(By.name("Send"));
+        SEND.get(0).click();
+        
+        Thread.sleep(2000);
         
         WebElement CONFIRM = driver
                      .findElementByClassName("android.widget.Button");
     CONFIRM = driver.findElement(By.name("Confirm"));
     CONFIRM.click();
         
-        
+    Thread.sleep(2000);
         WebElement DONE = driver.findElementByClassName("android.widget.Button");
         DONE = driver.findElement(By.name("Done"));
         DONE.click();
-        
+        Thread.sleep(2000);
         
         log.info("User successfully performed BILL PAYMENT");
         Thread.sleep(1000);		
 		
 	}
+	
+	@Given("I have cancelled Alerts Globally")	
+	public void givenIhaveCancelledAlertsGlobally() throws Exception{
+		
+		WebElement MENU = driver.findElementByClassName("android.widget.TextView");
+        MENU = driver.findElement(By.name("Menu"));
+        MENU.click();
+        
+        Thread.sleep(1000);
+        
+        
+        WebElement MORE = driver.findElementByClassName("android.widget.TextView");
+        MORE = driver.findElement(By.name("More"));
+        MORE.click();
+        
+        Thread.sleep(1000);
+        
+        WebElement SETTINGS = driver.findElement(By.name("Settings"));
+        SETTINGS.click();
+        Thread.sleep(1000);
+        
+        WebElement SWITCH = driver
+				.findElementByClassName("android.widget.Switch");
+		
+		SWITCH = driver.findElement(By.name("ON"));
+		SWITCH.click();
+		Thread.sleep(1000);
+		
+		WebElement CONFIRM = driver
+                .findElementByClassName("android.widget.Button");
+CONFIRM = driver.findElement(By.name("Confirm"));
+CONFIRM.click();
+   
+Thread.sleep(5000);
+		
+	}
+
+
+   @Given("I have cancelled Mobile Banking Service")	
+	public void givenIhaveCancelledMobileBankingService() throws Exception{
+	   
+	   /*WebElement MENU = driver.findElementByClassName("android.widget.TextView");
+       MENU = driver.findElement(By.name("Menu"));
+       MENU.click();
+       
+       Thread.sleep(1000);
+       
+       
+       WebElement MORE = driver.findElementByClassName("android.widget.TextView");
+       MORE = driver.findElement(By.name("More"));
+       MORE.click();
+       
+       Thread.sleep(1000);
+       
+       WebElement SETTINGS = driver.findElement(By.name("Settings"));
+       SETTINGS.click();
+       */
+Thread.sleep(1000);
+WebElement CANCELMBS = driver
+
+.findElementByClassName("android.widget.Button");
+
+String button1 = CANCELMBS.getText();
+
+CANCELMBS = driver.findElement(By.name(button1));
+
+CANCELMBS.click();
+
+Thread.sleep(1000);
+
+WebElement CANCELSERVICE1 = driver
+
+.findElementByClassName("android.widget.Button");
+
+String button2 = CANCELSERVICE1.getText();
+
+CANCELSERVICE1 = driver.findElement(By.name(button2));
+
+CANCELSERVICE1.click();
+
+Thread.sleep(1000);
+
+
+List<WebElement> CONFIRM = driver
+        .findElementsByClassName("android.widget.Button");
+CONFIRM = driver.findElements(By.name("Confirm"));
+CONFIRM.get(0).click();
+
+Thread.sleep(5000);
+       
+	   
+   }
+
+   @Then("I have completed the Sanity successfully")	
+	public void thenIHaveCompletedTheSanitySuccessfully() throws Exception{
+	   
+	   log.info("SANITY TEST IS PASSED SUCCESSFULLY");
+   }
 		
 	
 	@AfterStories
