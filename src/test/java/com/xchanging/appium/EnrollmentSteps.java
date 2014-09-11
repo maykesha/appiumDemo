@@ -448,18 +448,18 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
         Thread.sleep(2000);
 		
 	
-	WebElement TIME = driver.findElementByClassName("android.widget.TextView");		
+/*	WebElement TIME = driver.findElementByClassName("android.widget.TextView");		
 	TIME = driver.findElement(By.name("12pm - 4pm"));
 		TIME.click();
 		
 		Thread.sleep(2000);
-		
+		*/
 		// Save Weekly Alerts
 		WebElement SAVE = driver
 				.findElementByClassName("android.widget.Button");
 		SAVE = driver.findElement(By.name("Save"));
 		SAVE.click();
-		
+		Thread.sleep(1000);
 		// OK
 		
 		WebElement OK = driver
@@ -467,7 +467,7 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
 		OK = driver.findElement(By.name("OK"));
 		OK.click();
                
-               Thread.sleep(5000);	
+               Thread.sleep(2000);	
 		
 		
 	}
@@ -746,7 +746,7 @@ List<WebElement> CONFIRM = driver
 CONFIRM = driver.findElements(By.name("Confirm"));
 CONFIRM.get(0).click();
 
-Thread.sleep(5000);
+Thread.sleep(2000);
        
 	   
    }

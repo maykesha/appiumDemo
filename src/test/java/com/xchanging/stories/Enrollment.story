@@ -7,7 +7,7 @@ Meta:
 Narrative:
 In order to enroll a customer
 As a user for CBG mobile application
-I want to be able to enter customer details
+I want to Sanity Test the application successfully
 
 
 
