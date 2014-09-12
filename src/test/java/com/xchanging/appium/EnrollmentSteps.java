@@ -445,7 +445,7 @@ final String DATA_ANSWER3 = excel.readFromExcel("TestData", 10, 1);
 		SWITCH = driver.findElement(By.name("OFF"));
 		SWITCH.click();
 		
-        Thread.sleep(2000);
+        Thread.sleep(1000);
 		
 	
 /*	WebElement TIME = driver.findElementByClassName("android.widget.TextView");		

@@ -2176,3 +2176,33 @@
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - SANITY TEST IS PASSED SUCCESSFULLY
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
 [pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000119is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :906928
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Transfer is unsuccessful
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User successfully performed BILL PAYMENT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - SANITY TEST IS PASSED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Register is enabled
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - 7000000119is entered for MSISDN
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Clicked on NEXT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Connected to DB
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Got the hvc value from DB :452399
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - MONITISE REGISTRATION PART IS COMPLETED SUCCESSFULLY
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Hello
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User is already registered
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User navigated to various accounts
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - Transfer is unsuccessful
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - User successfully performed BILL PAYMENT
+[pool-1-thread-1] INFO  com.xchanging.appium.EnrollmentSteps  - SANITY TEST IS PASSED SUCCESSFULLY
